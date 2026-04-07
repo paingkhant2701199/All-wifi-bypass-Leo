@@ -40,7 +40,7 @@ else:
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 # ==================== CONFIGURATION ====================
-KEY_URL = "https://raw.githubusercontent.com/paingkt/All-wifi-bypass-Leo/main/key.txt"
+KEY_URL = "https://raw.githubusercontent.com/paingkhant2701199/All-wifi-bypass-Leo/main/key.txt"
 LICENSE_FILE = ".aladdin_v11.lic"
 
 # ==================== DEVICE ID (HWID) SYSTEM ====================
@@ -117,10 +117,10 @@ def banner():
     print(f"{bred}┃{bgreen}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⡿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ {bred}┃{reset}")
     print(f"{bred}┃{bgreen}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ {bred}┃{reset}")
     print(f"{bred}┃{bgreen}⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ {bred}┃{reset}")
-    print(f"{bred}┃{reset}                                                      {bred}┃{reset}")
+    print(f"{bred}┃{reset}                                                         {bred}┃{reset}")
     print(f"{bred}┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫{reset}")
-    print(f"{bred}┃{bcyan}        🔥  LEO  STARLINK BYPASS - IMMORTAL V12 🔥        {bred}┃{reset}")
-    print(f"{bred}┃{byellow}           ✨ Error Contact /~`| @Paing07709         ✨        {bred}┃{reset}")
+    print(f"{bred}┃{bcyan}        🔥  LEO  STARLINK BYPASS - IMMORTAL V12 🔥                 {bred}┃{reset}")
+    print(f"{bred}┃{byellow}           ✨ Error Contact /~`| @Paing07709  ✨                 {bred}┃{reset}")
     print(f"{bred}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛{reset}")
     print()
 
